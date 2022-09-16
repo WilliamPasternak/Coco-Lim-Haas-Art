@@ -18,21 +18,21 @@ This was an e-commerce site built for a Brooklyn based artist.
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/WilliamPasternak/busboy">Busboy</a>
+<a target="_blank" href="https://github.com/WilliamPasternak/busboy">Busboy Site</a>
         <br />
       <a target="_blank" href="https://github.com/WilliamPasternak/busboy">
             <img src="https://github.com/WilliamPasternak/busboy/blob/main/busyboy.gif" width="100%"  alt="Busbo.co"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/WilliamPasternak/Dilution-Calculator">Dilution Calculator</a> 
+<a target="_blank" href="https://github.com/WilliamPasternak/Dilution-Calculator">Dilution Calculator Web App</a> 
       <br />
         <a target="_blank" href="https://github.com/WilliamPasternak/Dilution-Calculator">
           <img src="https://github.com/WilliamPasternak/Dilution-Calculator/raw/main/Dilution.gif" width="100%" alt="Matching Card Game"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/WilliamPasternak/MovieNight">Movie Night</a>
+<a target="_blank" href="https://github.com/WilliamPasternak/MovieNight">Movie Night Web App</a>
         <br />
         <a target="_blank" href="https://github.com/WilliamPasternak/MovieNight">
           <img src="https://github.com/WilliamPasternak/MovieNight/blob/main/MovieNight%20Walkthrough.gif" width="100%" alt="Portfolio"/>
