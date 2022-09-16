@@ -1,0 +1,38 @@
+// Header Padding
+.header-announcement-bar-wrapper {
+    padding: 2vw 4vw!important;
+}
+
+*  {  margin:0; padding:0;}
+
+// Rectangle Styling
+.tooltip   {  
+  //position: absolute;
+  position: relative;
+  //float: right;
+  display: inline-block;
+  width: 420px;  
+  height: 180px; 
+  //box-shadow: 0 0 2px 2px rgba(0,0,0,.5);
+}
+
+// Position of Clickable Rectangle
+#first {    
+		bottom: 25%; 
+ 		left: 3%;
+} 
+
+.info a {
+  display: block;
+}
+
+// ============ Mobile Home Page Rectangle  ============== //
+// Mobile Position Of Rectangle
+#first   {   
+    top: 0%; 
+     right: 0%;
+} 
+
+.info a {
+  display: block;
+}
