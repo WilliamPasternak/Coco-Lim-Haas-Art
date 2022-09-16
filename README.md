@@ -14,10 +14,6 @@ This was an e-commerce site built for a Brooklyn based artist.
 ## Optimizations
 - Improve readability of hand drawn hero image
 
-
-## Lessons Learned:
-I was able to modify previous code I have written to create an invisible clickable field that sits over a hand drawn background image.
-
 ## More Projects
 <table bordercolor="#66b2b2">
   <tr>
